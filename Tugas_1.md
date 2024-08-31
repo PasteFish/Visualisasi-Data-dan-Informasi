@@ -1,4 +1,4 @@
-<p style="text-align:justify">Secara umum, bahasa visualisasi data terdiri dari tiga bagian: data, tanda (atau isyarat visual), dan pemetaan di antara keduanya.
+<p style="text-align:justify;">Secara umum, bahasa visualisasi data terdiri dari tiga bagian: data, tanda (atau isyarat visual), dan pemetaan di antara keduanya.
 Bahasa visualisasi data dapat dikategorikan berdasarkan ekspresifitas dan aksesibilitasnya. Low-level languages lebih ekspresif, sementara high-level languages lebih mudah digunakan. low-level languages mengharuskan pengguna untuk menentukan semua elemen pemetaan, seperti Prefuse, Flare, Protovis, D3, Vega, dan Reactive Vega.<br>
 Di sisi lain, high-level languages seperti ggplot2, Vega-Lite, Altair, Echarts, VizQL, dan ZQL merangkum detail dan properti visualisasi, sehingga memudahkan pengguna untuk membuat visualisasi tanpa menentukan fungsi pemetaan.<br>
 Sebagian besar bahasa dalam survei ini bersifat deklaratif, kecuali Prefuse dan Flare, yang merupakan bahasa prosedural. Bahasa deklaratif memungkinkan pengguna untuk menentukan “apa” yang mereka inginkan, sementara bahasa prosedural membutuhkan manipulasi yang lebih rinci oleh pengguna.<br>
