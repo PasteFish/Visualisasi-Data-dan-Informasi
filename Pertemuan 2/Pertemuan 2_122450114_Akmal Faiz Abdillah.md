@@ -1,7 +1,7 @@
 # Evaluasi Visualisasi Data Berdasarkan 4 Prinsip
 
 ## 1. Natural Increase in the World
-![Natural Increase in the World](https://mnt/data/scatter-plot-1024x720.webp)
+![Natural Increase in the World](Good_Viz_1.webp)
 
 - **Kategori: Good**
 - **Alasan**:
@@ -13,7 +13,7 @@
 ---
 
 ## 2. History of Pandemics
-![History of Pandemics](Good_Viz_1.jpg)
+![History of Pandemics](Good_Viz_2.jpg)
 
 - **Kategori: Good**
 - **Alasan**:
