@@ -13,7 +13,7 @@
 ---
 
 ## 2. History of Pandemics
-![History of Pandemics](https://mnt/data/61bdf425d3a394570362bcca_Blog2049.3-scaled.jpg)
+![History of Pandemics](Good_Viz_1.jpg)
 
 - **Kategori: Good**
 - **Alasan**:
@@ -25,7 +25,7 @@
 ---
 
 ## 3. Percent Identifying as White (Texas) & Population Growth Comparison
-![Percent Identifying as White (Texas) & Population Growth Comparison](https://mnt/data/0_jl2BBj1gHt3qoTXU.webp)
+![Percent Identifying as White (Texas) & Population Growth Comparison](Bad_Viz_1.webp)
 
 - **Kategori: Bad**
 - **Alasan**:
