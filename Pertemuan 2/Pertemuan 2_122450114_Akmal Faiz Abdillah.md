@@ -34,7 +34,7 @@
   - **Create accessibility through intuitive design**: Desainnya tidak intuitif, dan pengguna mungkin kesulitan memahami informasi tanpa petunjuk lebih lanjut. Penggunaan warna yang tidak tepat membuatnya sulit diakses oleh pengguna dengan penglihatan warna terbatas.
   - **Never deceive the receiver**: Grafik peta Texas tidak menyesuaikan dengan skala atau interval yang cukup representatif sehingga dapat menyesatkan tentang demografi wilayah.
 
-##  Gustavo Petro vs Fico Gutierrez
+##  4. Gustavo Petro vs Fico Gutierrez
 
 ![Gustavo Petro vs Fico Gutierrez](Bad_Viz_2.webp)
 
